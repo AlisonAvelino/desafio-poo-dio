@@ -149,4 +149,4 @@ Se possível:<br>
 
 ------------
 
-Disponibilizado com ♥ por [AlisonAvelino](https://www.linkedin.com/in/AlisonAvelino/ "AlisonAvelino").
+Disponibilizado com ♥ por [AlisonAvelino](https://www.linkedin.com/in// "AlisonAvelino").
